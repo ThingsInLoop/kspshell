@@ -1,0 +1,11 @@
+# Eclipse files
+.settings
+.settings/*
+.project
+.cproject
+
+# Objects
+src/*.o
+
+# Binary
+kspshell
